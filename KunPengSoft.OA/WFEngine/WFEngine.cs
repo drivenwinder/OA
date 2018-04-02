@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace KunPengSoft.WFEngine
 {
+    /// <summary>
+    /// workflow engine
+    /// </summary>
     public class WFRuntime
     {
+
+        /// <summary>
+        /// start wf engine
+        /// </summary>
+        public void Start()
+        {
+        }
     }
 }
